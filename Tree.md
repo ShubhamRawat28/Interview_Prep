@@ -9,3 +9,7 @@
 2. [Vertical Order Traversal](https://tinyl.io/6v73)
 3. [Largest BST](https://tinyl.io/70TS)
 4. [Clone a Binary Tree](https://tinyl.io/6v6r)
+5. [Path Sum](https://leetcode.com/problems/path-sum/) `Most IMP`
+6. [Path sum 2](https://leetcode.com/problems/path-sum-ii/)
+7. [Path Sum 3](https://leetcode.com/problems/path-sum-iii/)`Most IMP`
+8. 
