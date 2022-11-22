@@ -1,7 +1,7 @@
 # [Leetcode Profile](https://leetcode.com/rahulb_001/)
 
 ### Easy
-
+1.[Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/)
 
 ### Medium
 1.[Non- Decresing array](https://leetcode.com/problems/non-decreasing-array/)
