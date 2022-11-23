@@ -12,5 +12,6 @@
 3. [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
 4. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 5. [Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/)
+6. [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
 
 
