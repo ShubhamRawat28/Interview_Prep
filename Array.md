@@ -15,6 +15,7 @@
 6. [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
 7. [ Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/)
 8. [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
+9. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
 
 ### Hard
