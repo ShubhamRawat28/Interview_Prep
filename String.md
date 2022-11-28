@@ -5,4 +5,6 @@
 2. 
 
 ### Medium 
-1.[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+ 1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+ 2. [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
+
