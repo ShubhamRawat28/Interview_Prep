@@ -10,4 +10,6 @@
 
  
  ### Hard
-  1.[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
+ 1. [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
+ 2. 
+   
