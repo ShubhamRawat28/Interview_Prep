@@ -8,3 +8,6 @@
  1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
  2. [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
 
+ 
+ ### Hard
+  1.[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
