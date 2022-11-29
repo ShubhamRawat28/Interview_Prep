@@ -9,6 +9,7 @@
 
 1. [Linked List Random Node](https://tinyl.io/73CO)
 2. [Swap Nodes in pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+3. [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)
 
 
 
