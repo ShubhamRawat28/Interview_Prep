@@ -7,6 +7,7 @@
 ### Medium 
  1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
  2. [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
+ 3. [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)
 
  
  ### Hard
