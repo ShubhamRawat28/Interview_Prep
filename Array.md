@@ -22,4 +22,5 @@
 ### Hard
 
 1.  [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
+2.  [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/)
 
