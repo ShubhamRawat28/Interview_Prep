@@ -17,6 +17,7 @@
 8. [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
 9. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 10. [Minimum Number of Arrows to Burst Balloons](https://tinyl.io/7dRx)
+11. [ Minimum Operations to Make a Uni-Value Grid](https://tinyl.io/7g0O)
 
 
 ### Hard
