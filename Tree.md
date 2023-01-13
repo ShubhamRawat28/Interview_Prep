@@ -17,3 +17,4 @@
 11. [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree1528/1?page=2&difficulty[]=1&category[]=Tree&sortBy=submissions)
 12. [Step-By-Step Directions From a Binary Tree Node to Another](https://tinyl.io/7c4Q)
 13. [Preorder Traversal and BST](https://tinyl.io/7fwE)  `GFG`
+14. [Construct expression tree](https://practice.geeksforgeeks.org/problems/construct-an-expression-tree/1?page=3&difficulty[]=1&category[]=Tree&sortBy=submissions)
