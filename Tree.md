@@ -18,3 +18,4 @@
 12. [Step-By-Step Directions From a Binary Tree Node to Another](https://tinyl.io/7c4Q)
 13. [Preorder Traversal and BST](https://tinyl.io/7fwE)  `GFG`
 14. [Construct expression tree](https://practice.geeksforgeeks.org/problems/construct-an-expression-tree/1?page=3&difficulty[]=1&category[]=Tree&sortBy=submissions)
+15. [Complete Binary Tree](https://tinyl.io/7gsJ)
