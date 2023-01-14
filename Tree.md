@@ -19,3 +19,4 @@
 13. [Preorder Traversal and BST](https://tinyl.io/7fwE)  `GFG`
 14. [Construct expression tree](https://practice.geeksforgeeks.org/problems/construct-an-expression-tree/1?page=3&difficulty[]=1&category[]=Tree&sortBy=submissions)
 15. [Complete Binary Tree](https://tinyl.io/7gsJ)
+16. [Print leaf nodes from preorder traversal of BST](https://tinyl.io/7gsX)
