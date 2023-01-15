@@ -11,6 +11,7 @@
 2. [Swap Nodes in pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 3. [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)
 4. [Sort List](https://leetcode.com/problems/sort-list/description/)
+5. [Swap Kth nodes from ends](https://tinyl.io/7gxA)
 
 
 
