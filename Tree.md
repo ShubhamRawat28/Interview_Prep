@@ -20,3 +20,5 @@
 14. [Construct expression tree](https://practice.geeksforgeeks.org/problems/construct-an-expression-tree/1?page=3&difficulty[]=1&category[]=Tree&sortBy=submissions)
 15. [Complete Binary Tree](https://tinyl.io/7gsJ)
 16. [Print leaf nodes from preorder traversal of BST](https://tinyl.io/7gsX)
+17. [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)
+18. [Delete Nodes and Return Forest](https://tinyl.io/7hiY)
