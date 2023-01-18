@@ -18,6 +18,7 @@
 9. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 10. [Minimum Number of Arrows to Burst Balloons](https://tinyl.io/7dRx)
 11. [ Minimum Operations to Make a Uni-Value Grid](https://tinyl.io/7g0O)
+12. [Check If Array Pairs Are Divisible by k](https://tinyl.io/7iGd)
 
 
 ### Hard
