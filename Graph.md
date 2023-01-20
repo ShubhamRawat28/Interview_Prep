@@ -4,6 +4,7 @@
 
 
 ### Medium
+1. [Number of Islands](https://tinyl.io/7izz)
 
 
 
