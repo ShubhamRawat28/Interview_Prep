@@ -13,4 +13,4 @@
 4.
 
 ### Hard
-1.[Sliding Window Maximum](https://tinyl.io/7jO9)
+1. [Sliding Window Maximum](https://tinyl.io/7jO9)
