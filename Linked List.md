@@ -13,6 +13,7 @@
 4. [Sort List](https://leetcode.com/problems/sort-list/description/)
 5. [Swap Kth nodes from ends](https://tinyl.io/7gxA)
 6. [Prime List](https://tinyl.io/7jLE)
+7. [Absolute List Sorting](https://tinyl.io/7jLU)  `IMP`
 
 
 
