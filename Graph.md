@@ -6,6 +6,7 @@
 ### Medium
 1. [Number of Islands](https://tinyl.io/7izz)
 2. [Level of Nodes](https://tinyl.io/7jR7)
+3. [Redundant Connection](https://tinyl.io/7jZg)
 
 
 
