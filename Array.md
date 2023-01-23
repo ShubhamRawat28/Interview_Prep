@@ -19,10 +19,12 @@
 10. [Minimum Number of Arrows to Burst Balloons](https://tinyl.io/7dRx)
 11. [ Minimum Operations to Make a Uni-Value Grid](https://tinyl.io/7g0O)
 12. [Check If Array Pairs Are Divisible by k](https://tinyl.io/7iGd)
+13. [Smaller on Left](https://tinyl.io/7jR2)
 
 
 ### Hard
 
 1.  [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
 2.  [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/)
+3.  [Count of Smaller Numbers After Self](https://tinyl.io/7jR3)
 
