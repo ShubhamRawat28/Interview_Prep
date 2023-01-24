@@ -1,4 +1,4 @@
-![logo](https://github.com/RahulBisht001/RahulBisht001/blob/main/GithubBanner%20Final.png)
+![logo](https://github.com/RahulBisht001/Interview_Prep/blob/main/Interview.jpg)
 <h1 align="center">Interview_Prep</h1>
 
 #### One of Best Questions from Leetcode and Geeksforgeeks which will definately help
