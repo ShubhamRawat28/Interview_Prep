@@ -20,6 +20,7 @@
 11. [ Minimum Operations to Make a Uni-Value Grid](https://tinyl.io/7g0O)
 12. [Check If Array Pairs Are Divisible by k](https://tinyl.io/7iGd)
 13. [Smaller on Left](https://tinyl.io/7jR2)
+14. [Minimum Number of Arrows to Burst the Balloons](https://tinyl.io/7jo4)
 
 
 ### Hard
