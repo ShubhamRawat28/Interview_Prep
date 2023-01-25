@@ -10,6 +10,7 @@
 4. [Detect cycle in an undirected graph](https://tinyl.io/7jc5)
 5. [Bipartite Graph](https://tinyl.io/7jmk)
 6. [Shortest Path in Weighted undirected graph](https://tinyl.io/7kFG) `Very IMP`
+7. [Minimum Spanning tree](https://tinyl.io/7kOg)  `Prim's and Kruskal's Algo`
 
 
 
