@@ -21,6 +21,7 @@
 12. [Check If Array Pairs Are Divisible by k](https://tinyl.io/7iGd)
 13. [Smaller on Left](https://tinyl.io/7jR2)
 14. [Minimum Number of Arrows to Burst the Balloons](https://tinyl.io/7jo4)
+15. [Minimum swaps to sort](https://tinyl.io/7kWM)
 
 
 ### Hard
