@@ -3,7 +3,9 @@
 ### Easy
 
 
-1.[Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/)
+1. [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/)
+2. [Count pairs with given sum](https://tinyl.io/7lkQ)
+
 
 ### Medium
 
@@ -22,6 +24,7 @@
 13. [Smaller on Left](https://tinyl.io/7jR2)
 14. [Minimum Number of Arrows to Burst the Balloons](https://tinyl.io/7jo4)
 15. [Minimum swaps to sort](https://tinyl.io/7kWM)
+16. [Max Number of K-Sum Pairs](https://tinyl.io/7lkO)
 
 
 ### Hard
