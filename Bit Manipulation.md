@@ -6,3 +6,5 @@
 3. [Min Operations ](https://tinyl.io/7lXo)
 4. 
 
+### Medium
+1. [Bitwise AND of Numbers Range](https://tinyl.io/7n2p)
