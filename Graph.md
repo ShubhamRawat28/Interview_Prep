@@ -14,6 +14,7 @@
 8. [Cheapest Flights Within K Stops](https://tinyl.io/7khA)
 9. [Number of Enclaves](https://tinyl.io/7mvR)
 10. [Number of Closed Islands](https://tinyl.io/7mxC)
+11. [Max Area of the island](https://tinyl.io/7n2y)
 
 
 ### Hard
