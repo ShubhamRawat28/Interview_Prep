@@ -12,6 +12,7 @@
 6. [Shortest Path in Weighted undirected graph](https://tinyl.io/7kFG) `Very IMP`
 7. [Minimum Spanning tree](https://tinyl.io/7kOg)  `Prim's and Kruskal's Algo`
 8. [Cheapest Flights Within K Stops](https://tinyl.io/7khA)
+9. [Number of Enclaves](https://tinyl.io/7mvR)
 
 
 ### Hard
