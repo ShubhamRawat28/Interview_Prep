@@ -24,3 +24,4 @@
 18. [Delete Nodes and Return Forest](https://tinyl.io/7hiY)
 19. [Binary Tree Upside Down](https://tinyl.io/7kWO) `Article`
 20. [All Nodes at K Distance](https://tinyl.io/7oBQ)
+21. [Print cousins of the given node](https://tinyl.io/7oIc)
