@@ -25,6 +25,7 @@
 14. [Minimum Number of Arrows to Burst the Balloons](https://tinyl.io/7jo4)
 15. [Minimum swaps to sort](https://tinyl.io/7kWM)
 16. [Max Number of K-Sum Pairs](https://tinyl.io/7lkO)
+17. [Corporate Flight Bookings](https://tinyl.io/7obI) `check O(n) solution`
 
 
 ### Hard
