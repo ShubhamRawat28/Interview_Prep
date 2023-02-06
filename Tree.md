@@ -3,6 +3,8 @@
 
 ### Questions
 
+#### Easy
+ 1. [BST Downward Traversal](https://tinyl.io/7owU)
 
 #### Medium
 1. [PreOrder Iterative](https://tinyl.io/6v6q)
