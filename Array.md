@@ -26,6 +26,7 @@
 15. [Minimum swaps to sort](https://tinyl.io/7kWM)
 16. [Max Number of K-Sum Pairs](https://tinyl.io/7lkO)
 17. [Corporate Flight Bookings](https://tinyl.io/7obI) `check O(n) solution`
+18. [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/)
 
 
 ### Hard
