@@ -16,14 +16,17 @@
 
 ###  Rules of writing Recurence
 -------------------------------------------------------------------------------------------------------------------------------
-  1. Express everything in term of index
-  2. Explore possibility on that index
-  3. Take the best among of them
+  * Express everything in term of index
+  * Explore possibility on that index
+  * Take the best among of them
 
 ###  Memoization to Tabulation
    * Copy the base cases
    * write down the changing parameters in opposite fashion
    * Copy the Recurence.
+
+
+
 
 
 
