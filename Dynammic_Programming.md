@@ -10,6 +10,10 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Dp on Strings
+
+* Comparesion of Strings
+* Replacement / edits in the Strings
+
 1. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
 
