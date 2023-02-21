@@ -1,4 +1,4 @@
-![logo](https://github.com/RahulBisht001/Interview_Prep/blob/main/Interview.jpg)
+![logo](https://github.com/RahulBisht001/Interview_Prep/blob/main/Interview%20Prep.jpg)
 
 # Interview Prep Question Repository
 ---------------------------------------------------------------------------------
