@@ -21,4 +21,6 @@ This repository is an open-source project, and we welcome contributions from any
 ---------------------------------------------------------------------------------
 We would like to thank the following individuals and organizations for their contributions to this repository:
 
-* If you have any questions or comments about this repository, please feel free to contact us at [contact email]. We would be happy to hear from you!
+
+
+* If you have any questions or comments about this repository, please feel free to contact us at rahulbishtrb1012@gmail.com. We would be happy to hear from you!
