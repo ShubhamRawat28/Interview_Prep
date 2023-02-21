@@ -4,3 +4,8 @@
 #### One of Best Questions from Leetcode and Geeksforgeeks which will definately help
 #### you to build approach and solve your Questions.
 #### Do check this out to ace your Intervies
+
+
+## Rules for making a Push request.
+1. don't make Push request for the Questions that are already their.
+2. if you see that there is some Question which is almost similar to it / kind of . plzz mention that ques.
