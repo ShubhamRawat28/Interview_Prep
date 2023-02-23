@@ -36,6 +36,7 @@
 ###  # DP on Grid
 ---------------------------------------------------------------------------------
 1. [Unique Paths](https://tinyl.io/7wNf)
+2. [Minimum path sum in the Triangle](https://tinyl.io/7wPv)
 
 
 
