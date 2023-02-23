@@ -9,7 +9,7 @@
 ## Patterns
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dp on Strings
+###  # Dp on Strings
 
 * Comparesion of Strings
 * Replacement / edits in the Strings
@@ -33,7 +33,7 @@
 3. [Longest Common Substring](https://tinyl.io/7vCL)
 
 
-### DP on Grid
+###  # DP on Grid
 ---------------------------------------------------------------------------------
 1. [Unique Paths](https://tinyl.io/7wNf)
 
