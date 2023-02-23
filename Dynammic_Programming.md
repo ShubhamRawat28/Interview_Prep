@@ -1,5 +1,17 @@
 # Leetcode
 
+###  Rules of writing Recurence
+-------------------------------------------------------------------------------------------------------------------------------
+  * Express everything in term of index
+  * Explore possibility on that index
+  * Take the best among of them
+
+####  Memoization to Tabulation
+   * Copy the base cases
+   * write down the changing parameters in opposite fashion
+   * Copy the Recurence.
+
+
 ## Question Patterns
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -12,18 +24,6 @@
 
 * Comparesion of Strings
 * Replacement / edits in the Strings
-
-###  Rules of writing Recurence
--------------------------------------------------------------------------------------------------------------------------------
-  * Express everything in term of index
-  * Explore possibility on that index
-  * Take the best among of them
-
-####  Memoization to Tabulation
-   * Copy the base cases
-   * write down the changing parameters in opposite fashion
-   * Copy the Recurence.
-
 
 
 
