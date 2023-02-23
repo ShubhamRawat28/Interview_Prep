@@ -1,13 +1,12 @@
 # Leetcode
 
-## Questions
+## Question Patterns
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
-### Medium
+### # Dp in 1D Array
 1. [ House Robber](https://leetcode.com/problems/house-robber/)
 3. [Unique Binary Search Trees](https://tinyl.io/7lJU)
 
-## Patterns
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###  # Dp on Strings
 
@@ -20,7 +19,7 @@
   * Explore possibility on that index
   * Take the best among of them
 
-###  Memoization to Tabulation
+####  Memoization to Tabulation
    * Copy the base cases
    * write down the changing parameters in opposite fashion
    * Copy the Recurence.
