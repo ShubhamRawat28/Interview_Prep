@@ -8,6 +8,7 @@
  1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
  2. [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
  3. [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)
+ 4. [Find the Divisibility Array of a String](https://tinyl.io/7xEp)
 
  
  ### Hard
